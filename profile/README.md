@@ -1,6 +1,6 @@
 # Sprunki Scrunkly: Play it Online
 
-**[👉 Play Sprunki Scrunkly Here!](https://www.y9freegames.com/)**  
+#  **[👉 Play Sprunki Scrunkly Here!](https://www.y9freegames.com/game/sprunki-scrunkly/)**  
 
 Welcome to **Sprunki Scrunkly**, the enchanting fan-made mod for Incredibox that redefines how we create and enjoy music. Whether you’re a seasoned music enthusiast or a curious beginner, this delightful mod invites you to explore a world where quirky characters, catchy beats, and whimsical animations combine to create an unforgettable musical experience.  
 
